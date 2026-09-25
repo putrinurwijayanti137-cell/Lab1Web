@@ -13,7 +13,8 @@ Praktikum ini bertujuan untuk mempelajari dasar-dasar HTML dan membuat halaman w
 ## 1. Struktur Dasar HTML
 
 Pada tahap pertama dibuat struktur dasar HTML yang terdiri dari `DOCTYPE`, `html`, `head`, `title`, dan `body`.
-
+![Screenshot Struktur Dasar HTML](ss-index.png)
+![Screenshot Halaman Utama](halaman%20utama.png)
 ## 2. Heading dan Paragraf
 
 Selanjutnya dibuat heading menggunakan tag `h1` dan `h2`, serta paragraf menggunakan tag `p`.
@@ -39,7 +40,9 @@ File gambar disimpan di dalam folder `images` dengan nama:
 ## 5. Hyperlink
 
 Dibuat halaman kedua dengan nama `halaman2.html`. Kemudian dibuat hyperlink dari halaman utama menuju halaman kedua dan link untuk kembali ke halaman utama.
+![Screenshot Kode Halaman 2](ss-halaman2.png)
 
+![Screenshot Halaman 2](halaman%202.png)
 ## 6. List
 
 Dibuat dua jenis list HTML, yaitu:
@@ -59,6 +62,12 @@ Komentar tidak ditampilkan pada halaman browser.
 
 Semua materi yang telah dipelajari kemudian digabungkan menjadi halaman Profil Mahasiswa yang berisi data diri, informasi tentang mahasiswa, minat, dan target belajar.
 
+## Kesimpulan
+
+Melalui praktikum ini, saya mempelajari dasar-dasar HTML mulai dari membuat struktur halaman, heading, paragraf, format teks, gambar, hyperlink, list, komentar HTML, hingga membuat halaman Profil Mahasiswa.
+
+![Screenshot Struktur Folder](struktur%20lebweb.png)
+
 ## Struktur Folder
 
 ```text
@@ -68,7 +77,5 @@ Lab1Web/
 ├── images/
 │   └── profil.jpg
 └── README.md
+ 
 
-## Kesimpulan
-
-Melalui praktikum ini, saya mempelajari dasar-dasar HTML mulai dari membuat struktur halaman, heading, paragraf, format teks, gambar, hyperlink, list, komentar HTML, hingga membuat halaman Profil Mahasiswa.
